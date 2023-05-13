@@ -1,2 +1,2 @@
 # study_accessibility
-웹접근성에 대한 기록
+웹접근성 공부한 내용 기록
